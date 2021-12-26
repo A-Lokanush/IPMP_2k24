@@ -16,6 +16,7 @@
 - Learnt about STL in C++
 - Binary Search Types
 - Different Types of Sorting 
+- Bit Manipulation
 
 <br>
 
