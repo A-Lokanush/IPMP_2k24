@@ -1,0 +1,1 @@
+// maximu product array
