@@ -1,6 +1,8 @@
 #!/bin/bash
 
-for (( i = 2; i <= 4; i++ ))
+# to create the files
+
+for (( i = 1; i <= 4; i++ ))
 do
    mkdir day$i
    cd day$i
